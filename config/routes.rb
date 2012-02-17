@@ -1,5 +1,7 @@
 Meta::Application.routes.draw do
 
+  devise_for :users
+
   match 'class/:name/method/:meth' => "meth#show", :as => :meth
   match 'class/:name' => 'klass#show', :as => :klass
   match 'module/:name/method/:meth' => "meth#show", :as => :mmeth

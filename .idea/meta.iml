@@ -23,6 +23,7 @@
     <orderEntry type="library" scope="PROVIDED" name="activeresource (v3.2.1, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v3.2.1, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v3.0.0, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bcrypt-ruby (v3.0.1, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.0.0, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.0.21, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="capybara (v1.1.2, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
@@ -30,6 +31,7 @@
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v3.2.2, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.2.0, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.2.0, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="devise (v2.0.4, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.1.3, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="execjs (v1.3.0, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
@@ -44,6 +46,7 @@
     <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.17.2, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.0.4, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.5.0, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="orm_adapter (v0.0.6, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.3, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.4.1, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-cache (v1.1, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
@@ -69,6 +72,7 @@
     <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.10, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.31, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v1.2.3, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="warden (v1.1.1, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="xpath (v0.1.4, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">

@@ -1,4 +1,7 @@
 class MethController < ApplicationController
+
+  before_filter :authenticate_user!, :only => :update
+
   def show
     name = "#{params[:name]}##{params[:meth]}"
     @meth = Meth.find_or_create_by_name(name)

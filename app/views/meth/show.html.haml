@@ -1,8 +1,8 @@
 %h2= "#{@meth.name}"
 
 %div= @meth.description
-
-=form_tag('/method', :method => 'POST') do
- = hidden_field(:meth, :name)
- = text_area(:meth, :description)
- = submit_tag('Commit')
+- if current_user && current_user.admin
+  =form_tag('/method', :method => 'POST') do
+    = hidden_field(:meth, :name)
+    = text_area(:meth, :description)
+    = submit_tag('Commit')
