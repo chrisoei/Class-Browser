@@ -1,0 +1,14 @@
+%h1= @name
+%br
+%h2 Public instance methods:
+%br
+!= show_methods(@modul, :public_instance_methods)
+%br
+%h2 Protected instance methods:
+!= show_methods(@modul, :protected_instance_methods)
+%br
+%h2 Private instance methods:
+!= show_methods(@modul, :private_instance_methods)
+%br
+%h2 Singleton methods:
+!= show_methods(@modul, :singleton_methods)

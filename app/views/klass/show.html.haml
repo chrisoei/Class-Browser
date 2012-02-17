@@ -1,0 +1,20 @@
+%h1= @name
+%br
+%h2 Superclass
+= link_to @klass.superclass.to_s, klass_url(@klass.superclass.to_s)
+%br
+%h2 Ancestors:
+!= show_ancestors(@klass)
+%br
+%h2 Public instance methods:
+%br
+!= show_methods(@klass, :public_instance_methods)
+%br
+%h2 Protected instance methods:
+!= show_methods(@klass, :protected_instance_methods)
+%br
+%h2 Private instance methods:
+!= show_methods(@klass, :private_instance_methods)
+%br
+%h2 Singleton methods:
+!= show_methods(@klass, :singleton_methods)
