@@ -47,6 +47,7 @@
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.0.4, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.5.0, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="orm_adapter (v0.0.6, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pg (v0.13.1, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.3, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.4.1, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-cache (v1.1, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
@@ -66,7 +67,6 @@
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v3.2.4, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v2.19.0, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.1.2, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.5, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v0.14.6, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.3.3, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.10, RVM: ruby-1.9.3-p0 [experiments]) [gem]" level="application" />
