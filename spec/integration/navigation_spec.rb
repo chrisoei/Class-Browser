@@ -6,4 +6,10 @@ describe 'Navigation' do
     click_link 'Object'
     current_path.should == '/class/Object'
   end
+
+  it 'should navigate to an ancestor' do
+    visit '/class/Object'
+    click_link 'Kernel'
+    current_path.should == '/module/Kernel'
+  end
 end

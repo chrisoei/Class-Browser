@@ -8,6 +8,7 @@ gem 'rails', '3.2.1'
 gem 'sqlite3'
 gem 'rspec-rails'
 gem 'haml'
+gem 'capybara'
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -22,7 +23,6 @@ group :assets do
 end
 
 group :test do
-  gem 'capybara'
 end
 
 gem 'jquery-rails'
